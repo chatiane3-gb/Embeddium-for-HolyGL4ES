@@ -42,3 +42,5 @@ the [MIT license](https://opensource.org/license/mit), located in `src/main/reso
 ## Holy GL4ES
 
 If you download Embeddium on this forked version，Please do not provide feedback to the original author when encountering problems!If feedback is needed, it should be given to the author of the revised version.
+
+Due to the inability of Holy GL4ES to enter the game starting from 1.21, Therefore, this branch will only be updated upto a maximum of 1.20.6.
