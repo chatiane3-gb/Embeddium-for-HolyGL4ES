@@ -39,3 +39,6 @@ Embeddium is licensed under the Lesser GNU General Public License version 3.
 
 Portions of the option screen code are based on Reese's Sodium Options by FlashyReese, and are used under the terms of
 the [MIT license](https://opensource.org/license/mit), located in `src/main/resources/licenses/rso.txt`. 
+## Holy GL4ES
+
+If you download Embeddium on this forked version，Please do not provide feedback to the original author when encountering problems!If feedback is needed, it should be given to the author of the revised version.
