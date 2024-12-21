@@ -23,8 +23,7 @@ If in the mobile version launcher (FCL/PojavLauncher)Please do not report any is
 ## Highlights
 
 * All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements
-* Available for Minecraft Forge on 1.20.1 and older, and Fabric/NeoForge on 1.20.1 and newer
-* Integrated Fabric Rendering API support (Indium is no longer required, and will not work with Embeddium)
+* Available for Minecraft (neo)Forge on 1.20.1 and older, The support for versions between 1.16.5 and 1.20.6 will be continuously improved in the future!
 * Frequent patch updates to fix mod compatibility issues soon after being reported & reproduced
 * Additional APIs for mod integration
 * Optional support for translucency sorting (can be enabled in Video Settings)
