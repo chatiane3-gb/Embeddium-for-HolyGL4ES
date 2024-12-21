@@ -10,7 +10,8 @@
 Embeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.
 
 Despite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord - please open an issue on our [Issues page](https://github.com/FiniteReality/embeddium/issues).
-
+#Holy GL4ES
+If in the mobile version launcher (FCL/PojavLauncher)Please do not report any issues encountered during use to the original author!
 ## Highlights
 
 * All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements
