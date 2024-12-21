@@ -1,6 +1,6 @@
 <img src="src/main/resources/icon.png" width="128">
 
-# Embeddium
+# Embeddium Holy GL4ES
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/sk9rgfiA?label=Modrinth&labelColor=%232D2D2D)](https://modrinth.com/mod/embeddium)
 [![Modrinth Version](https://img.shields.io/modrinth/v/sk9rgfiA?label=Latest%20version&labelColor=%232D2D2D)](https://modrinth.com/mod/embeddium/versions)
