@@ -7,6 +7,14 @@
 [![](http://cf.way2muchnoise.eu/short_embeddium_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/embeddium)
 [![](http://cf.way2muchnoise.eu/versions/Available%20for_embeddium_full.svg)](https://www.curseforge.com/minecraft/mc-mods/embeddium/files)
 
+Embeddium Unofficial branch.If you are currently using FCL/PojavLauncherAnd their unofficial versions, Holy GL4ES using Embeddium, please use the version of this branch.
+
+This branch service is aimed at mobile players. If you are a computer player or a player who does not need to use this branchPlease use the official version.
+
+This branch contains versions that are highly targeted and mainly update with mainstream major versions.The supported versions are planned to include 1.16.5 to 1.20.6.
+
+The reason for not supporting versions 1.20.6 and above is obvious.Please refer to the "Holy GL4ES" item at the end of the description for details.
+
 Embeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.
 
 Despite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord - please open an issue on our [Issues page](https://github.com/FiniteReality/embeddium/issues).
